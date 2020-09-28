@@ -1,0 +1,23 @@
+fiche=[
+    {
+        "nom": "Jean",
+        "class": "Guerrier"
+      
+    },
+    {
+        "nom": "Sarah",
+        "class": "Prêtresse"
+    },
+    {
+        "nom": "Bob",
+        "class": "Barbare"
+    },
+    {
+       "nom": "Sasha",
+        "class": "Guerrier"
+    },
+    {
+       "nom": "Jean",
+        "class": "Guerrier"
+    }
+]
